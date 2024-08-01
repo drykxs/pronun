@@ -20,8 +20,8 @@ A project for retrieving word definitions. This project includes a Python module
 1. **Clone the Repository**
 
    ```sh
-   git clone https://github.com/your_username/your_repository.git
-   cd your_repository
+   git clone https://github.com/drykxs/pronun.git
+   cd pronun
 
 2. **Create and Activate a Virtual Environment**
 
@@ -32,5 +32,38 @@ A project for retrieving word definitions. This project includes a Python module
 3. **Install the requiriments**
    ```sh
    pip install -r requirements.txt
+
+## Usage
+
+**Running the Project**
+To run the script:
+
+```sh
+python src/pronun.py
+```
+
+**Install Dependencies**
+
+```sh
+make 
+```
+
+**Clean Up**
+
+```sh
+make clean
+```
+
+## Contribution
+Contributions are welcome! Please open an issue or a pull request if you find a bug or have suggestions for improvements.
+
+## License
+This project is licensed under the MIT License.
+
+## Contact
+For more information, contact drykxs@gmail.com.
+
+
+
 
 
