@@ -5,7 +5,7 @@ A project for retrieving word definitions. This project includes a Python module
 ## Project Structure
 
 - `src/`: Contains the main source code of the project.
-  - `pronun.py` the script that provided the "how to say" the work and the first sentence of its meaning 
+  - `pronun.py`: The script that provided the "how to say" the work and the first sentence of its definition 
   - `dictionary_tool.py`: Python module with the function to retrieve word definitions.
   - `test_dictionary_tool.py`: Test script to verify the functionality of the module.
 - `requirements.txt`: List of dependencies required for the project.
