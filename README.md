@@ -11,6 +11,8 @@ A project for retrieving word definitions. This project includes a Python module
 - `requirements.txt`: List of dependencies required for the project.
 - `Makefile`: File to automate common tasks such as installing dependencies, building the project, running tests, and creating packages.
 
+  # Added noun.sh and dictionary_tool.sh
+
 
 ## Requirements
 
