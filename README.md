@@ -10,9 +10,7 @@ A project for retrieving word definitions. This project includes a Python module
   - `test_dictionary_tool.py`: Test script to verify the functionality of the module.
 - `requirements.txt`: List of dependencies required for the project.
 - `Makefile`: File to automate common tasks such as installing dependencies, building the project, running tests, and creating packages.
-
-  # Added noun.sh and dictionary_tool.sh
-
+- The bash scripts are 10x easier to do manually but I didnt add the makefile. 
 
 ## Requirements
 
