@@ -1,6 +1,6 @@
 #!/bin/bash
 
-API_KEY="85e4ae07-9439-4e50-b352-3542ce427812"
+API_KEY="x"
 BASE_URL="https://www.dictionaryapi.com/api/v3/references/collegiate/json/"
 
 get_noun_definition() {
